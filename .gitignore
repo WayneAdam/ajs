@@ -5,6 +5,7 @@ HELP.md
 dist
 doc
 token.txt
+.npmrc
 
 # Logs
 logs
