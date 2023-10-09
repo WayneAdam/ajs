@@ -7,4 +7,4 @@ function info() {
 
 export default {
   info
-};
+}; 
